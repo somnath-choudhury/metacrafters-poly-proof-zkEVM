@@ -119,5 +119,5 @@ The circuit has been verified for the following input `A: 0` and `B: 1`
     ```
     &nbsp;
 The script will compile the contract and deploy it onto the Mumbai Testnet. The address of the contract will be printed on the console. 
-
+We can verify our contract creation by pasting the deployed address onto the Polygon Testnet.
 
